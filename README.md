@@ -1,1 +1,8 @@
-## Exercícios do livro Programação em Rust.
+# Exercícios
+
+## Livro Programação em Rust
+
+### Autores:
+Jim Blandy
+Jason Orendorff
+Leonora F. S. Tindall
